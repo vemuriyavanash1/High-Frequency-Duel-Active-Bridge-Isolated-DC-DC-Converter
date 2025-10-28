@@ -4,7 +4,7 @@ A Dual Active Bridge (DAB) DC–DC converter was designed and simulated in MATLA
 
 The converter efficiently transferred 400 V DC across isolated stages with minimal switching loss and high power density.
 
-Xilinx Artix-7 FPGA was employed for generating precise gate pulses, ensuring ZVS operation and 96% efficiency.
+Xilinx Artix-7 FPGA was employed for generating precise gate pulses, ensuring ZVS operation and 99% efficiency.
 
 Objectives:
 
@@ -77,7 +77,7 @@ The Dual Active Bridge converter achieved bidirectional DC power transfer with 9
 
 The phase-shift control technique successfully minimized switching stress and improved transient response.
 
-Simulation results validated the constant output voltage (~400 V) and balanced transformer waveforms, confirming the converter’s suitability for EV, renewable, and 
+Simulation results validated the constant output voltage (~398 V) and balanced transformer waveforms, confirming the converter’s suitability for EV, renewable, and 
 microgrid applications requiring high-frequency, isolated, and efficient power conversion.
 
 Applications:
