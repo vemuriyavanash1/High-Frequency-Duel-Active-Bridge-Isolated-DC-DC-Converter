@@ -1,4 +1,4 @@
-Abstract
+Abstract:
 
 A Dual Active Bridge (DAB) DC–DC converter was designed and simulated in MATLAB/Simulink using a 1:1, 10 kVA high-frequency transformer and operated at 100 kHz switching frequency with a 48% duty cycle and 180° phase shift.
 
@@ -6,7 +6,7 @@ The converter efficiently transferred 400 V DC across isolated stages with minim
 
 Xilinx Artix-7 FPGA was employed for generating precise gate pulses, ensuring ZVS operation and 96% efficiency.
 
-Objectives
+Objectives:
 
 To design a bidirectional isolated DC–DC converter with high efficiency and power density.
 
@@ -18,7 +18,7 @@ To validate FPGA-based gate pulse control for precise phase-shift modulation.
 
 To maintain regulated 400 V DC output under load variations.
 
-Methodology
+Methodology:
 
 1. Software Used
 
@@ -71,7 +71,7 @@ Input and Output current graphs:
 
 
 
-Conclusion
+Conclusion:
 
 The Dual Active Bridge converter achieved bidirectional DC power transfer with 98% efficiency and soft-switching performance at 100 kHz.
 
