@@ -69,6 +69,9 @@ MATLAB Primary voltage at transformer, Secondary voltage at transformer and DC o
 Input and Output current graphs:
 <img width="1919" height="890" alt="image" src="https://github.com/user-attachments/assets/58fd67a1-aeee-4983-b3c4-348eda033cf9" />
 
+Hardware setup:
+
+<img width="375" height="497" alt="image" src="https://github.com/user-attachments/assets/f02190cb-8bc9-4199-a0f7-a986896d1e86" />
 
 
 Conclusion:
