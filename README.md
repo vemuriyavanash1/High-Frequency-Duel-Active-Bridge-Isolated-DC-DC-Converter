@@ -73,6 +73,16 @@ Hardware setup:
 
 <img width="375" height="497" alt="image" src="https://github.com/user-attachments/assets/f02190cb-8bc9-4199-a0f7-a986896d1e86" />
 
+Testing pulses and current at low voltage testing:
+
+<img width="872" height="827" alt="image" src="https://github.com/user-attachments/assets/26c8909d-ee68-4202-a3d5-6eb8a1534abe" />
+
+<img width="618" height="818" alt="image" src="https://github.com/user-attachments/assets/0edb5fd7-19f3-4a3c-a92e-0b32f13636bf" />
+
+<img width="399" height="600" alt="image" src="https://github.com/user-attachments/assets/573501dc-bf75-43a3-b2f1-e87e1857c0b0" />
+
+<img width="1009" height="700" alt="image" src="https://github.com/user-attachments/assets/5183fe77-8b61-4db9-ad7c-04848d200e21" />
+
 
 Conclusion:
 
