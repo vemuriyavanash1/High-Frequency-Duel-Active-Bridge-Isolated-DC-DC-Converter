@@ -86,7 +86,7 @@ Testing pulses and current at low voltage testing:
 
 Conclusion:
 
-The Dual Active Bridge converter achieved bidirectional DC power transfer with 98% efficiency and soft-switching performance at 100 kHz.
+The Dual Active Bridge converter achieved bidirectional DC power transfer with 95% efficiency and soft-switching performance at 100 kHz.
 
 The phase-shift control technique successfully minimized switching stress and improved transient response.
 
